@@ -1,0 +1,6 @@
+08-02-2021, 16:55:44 Medium-WinGDK-Shipping.exe benchmark completed, 16355 frames rendered in 820.281 s
+                     Average framerate  :   19.9 FPS
+                     Minimum framerate  :    0.2 FPS
+                     Maximum framerate  :   60.6 FPS
+                     1% low framerate   :    0.2 FPS
+                     0.1% low framerate :    0.2 FPS

@@ -1,0 +1,6 @@
+08-02-2021, 17:47:38 SkyrimSE.exe benchmark completed, 49128 frames rendered in 1340.343 s
+                     Average framerate  :   36.6 FPS
+                     Minimum framerate  :    0.0 FPS
+                     Maximum framerate  :   60.1 FPS
+                     1% low framerate   :    1.5 FPS
+                     0.1% low framerate :    0.0 FPS
