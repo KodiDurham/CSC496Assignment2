@@ -1,0 +1,6 @@
+15-02-2021, 19:55:51 FalloutNV.exe benchmark completed, 10102 frames rendered in 332.906 s
+                     Average framerate  :   30.3 FPS
+                     Minimum framerate  :    0.0 FPS
+                     Maximum framerate  :   60.4 FPS
+                     1% low framerate   :    0.0 FPS
+                     0.1% low framerate :    0.0 FPS

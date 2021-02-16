@@ -1,0 +1,6 @@
+15-02-2021, 19:06:43 Borderlands2.exe benchmark completed, 81687 frames rendered in 756.703 s
+                     Average framerate  :  107.9 FPS
+                     Minimum framerate  :    0.0 FPS
+                     Maximum framerate  :  175.0 FPS
+                     1% low framerate   :    0.0 FPS
+                     0.1% low framerate :    0.0 FPS
