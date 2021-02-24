@@ -89,4 +89,4 @@ set output 'B1B2B3.png'
 plot 'frames.csv' using 0:1 with lines, '' using 0:2 with lines, '' using 0:3 
 with lines
 
- or see [B1B2B3.gnuplot](Borderlands/B1B2B3.gnuplot)
+ or see [B1B2B3.gnuplot](Borderlands2/B1B2B3.gnuplot)
