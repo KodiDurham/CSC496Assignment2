@@ -1,0 +1,5 @@
+Screenshot saved to:
+C:\cinebench\cineScreenchot.bmp
+Thread Count           : 4
+CB 3178.97 (0.00)
+CB 892.79 (0.00)
