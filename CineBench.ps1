@@ -5,7 +5,7 @@ function getScore{
 	#$logPath = "C:\cinebench\log.txt" 
     $logPath= $path.Parent.FullName +"log.txt"
 
-	#Start-Process -FilePath $path -ArgumentList "g_CinebenchAllTests=true g_acceptDisclaimer=true" -RedirectStandardOutput $logPath -Wait
+	Start-Process -FilePath $path -ArgumentList "g_CinebenchAllTests=true g_acceptDisclaimer=true" -RedirectStandardOutput $logPath -Wait
 
 	return ((Get-Content $logPath |
 		Where-Object { $_ -like "CB*" -or $_ -like "*Thread Count*" }) -split " ")[13,15,18]
