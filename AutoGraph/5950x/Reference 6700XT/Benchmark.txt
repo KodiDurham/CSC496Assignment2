@@ -1,0 +1,144 @@
+10-03-2021, 12:30:09 HorizonZeroDawn.exe benchmark completed, 16855 frames rendered in 177.938 s 1440 stock
+                     Average framerate  :   94.7 FPS
+                     Minimum framerate  :   72.9 FPS
+                     Maximum framerate  :  132.9 FPS
+                     1% low framerate   :   72.9 FPS
+                     0.1% low framerate :   69.2 FPS
+10-03-2021, 13:13:46 HorizonZeroDawn.exe benchmark completed, 17010 frames rendered in 175.156 s 1440 MAX
+                     Average framerate  :   97.1 FPS
+                     Minimum framerate  :   74.8 FPS
+                     Maximum framerate  :  118.5 FPS
+                     1% low framerate   :   75.1 FPS
+                     0.1% low framerate :   67.1 FPS
+10-03-10-03-2021, 14:06:22 HorizonZeroDawn.exe benchmark completed, 20885 frames rendered in 178.515 s 1080 stock
+                     Average framerate  :  116.9 FPS
+                     Minimum framerate  :   85.7 FPS
+                     Maximum framerate  :  151.9 FPS
+                     1% low framerate   :   86.0 FPS
+                     0.1% low framerate :   78.4 FPS
+10-03-2021, 13:57:24 HorizonZeroDawn.exe benchmark completed, 21269 frames rendered in 177.250 s 1080 MAX
+                     Average framerate  :  119.9 FPS
+                     Minimum framerate  :   87.3 FPS
+                     Maximum framerate  :  156.7 FPS
+                     1% low framerate   :   87.9 FPS
+                     0.1% low framerate :   80.9 FPS
+11-03-2021, 15:00:12 HorizonZeroDawn.exe benchmark completed, 8660 frames rendered in 175.625 s 4K stock
+                     Average framerate  :   49.3 FPS
+                     Minimum framerate  :   40.1 FPS
+                     Maximum framerate  :   61.1 FPS
+                     1% low framerate   :   40.4 FPS
+                     0.1% low framerate :   39.2 FPS
+11-03-2021, 15:06:59 HorizonZeroDawn.exe benchmark completed, 8743 frames rendered in 174.672 s 4k MAX
+                     Average framerate  :   50.0 FPS
+                     Minimum framerate  :   41.3 FPS
+                     Maximum framerate  :   61.5 FPS
+                     1% low framerate   :   41.6 FPS
+                     0.1% low framerate :   39.4 FPS
+11-03-2021, 15:23:59 SOTTR.exe benchmark completed, 12897 frames rendered in 173.797 s 4k stock
+                     Average framerate  :   74.2 FPS
+                     Minimum framerate  :   61.5 FPS
+                     Maximum framerate  :  111.5 FPS
+                     1% low framerate   :   61.6 FPS
+                     0.1% low framerate :   44.0 FPS
+11-03-2021, 15:36:56 SOTTR.exe benchmark completed, 13074 frames rendered in 176.063 s 4k MAX
+                     Average framerate  :   74.2 FPS
+                     Minimum framerate  :   61.5 FPS
+                     Maximum framerate  :  110.9 FPS
+                     1% low framerate   :   61.7 FPS
+                     0.1% low framerate :   43.2 FPS
+11-03-2021, 15:54:43 SOTTR.exe benchmark completed, 22822 frames rendered in 174.110 s 1440 stock
+                     Average framerate  :  131.0 FPS
+                     Minimum framerate  :  102.1 FPS
+                     Maximum framerate  :  211.1 FPS
+                     1% low framerate   :   99.9 FPS
+                     0.1% low framerate :   44.7 FPS
+11-03-2021, 15:59:23 SOTTR.exe benchmark completed, 23624 frames rendered in 174.484 s 1440 MAX
+                     Average framerate  :  135.3 FPS
+                     Minimum framerate  :  104.6 FPS
+                     Maximum framerate  :  216.9 FPS
+                     1% low framerate   :  102.2 FPS
+                     0.1% low framerate :   43.3 FPS
+11-03-2021, 16:57:11 SOTTR.exe benchmark completed, 30316 frames rendered in 172.781 s 1080 stock
+                     Average framerate  :  175.4 FPS
+                     Minimum framerate  :  121.7 FPS
+                     Maximum framerate  :  311.2 FPS
+                     1% low framerate   :  110.6 FPS
+                     0.1% low framerate :   42.7 FPS
+11-03-2021, 17:02:51 SOTTR.exe benchmark completed, 30921 frames rendered in 172.234 s 1080 MAX
+                     Average framerate  :  179.5 FPS
+                     Minimum framerate  :  119.6 FPS
+                     Maximum framerate  :  305.9 FPS
+                     1% low framerate   :  111.7 FPS
+                     0.1% low framerate :   43.4 FPS
+11-03-2021, 17:40:53 FarCry5.exe benchmark completed, 4108 frames rendered in 56.531 s 4k stock
+                     Average framerate  :   72.6 FPS
+                     Minimum framerate  :   62.9 FPS
+                     Maximum framerate  :   92.8 FPS
+                     1% low framerate   :   62.8 FPS
+                     0.1% low framerate :   56.7 FPS
+11-03-2021, 17:43:58 FarCry5.exe benchmark completed, 4182 frames rendered in 55.500 s 4k MAX
+                     Average framerate  :   75.3 FPS
+                     Minimum framerate  :   65.4 FPS
+                     Maximum framerate  :   94.6 FPS
+                     1% low framerate   :   65.2 FPS
+                     0.1% low framerate :   35.1 FPS
+11-03-2021, 17:47:18 FarCry5.exe benchmark completed, 7205 frames rendered in 55.329 s 1440 stock
+                     Average framerate  :  130.2 FPS
+                     Minimum framerate  :  111.9 FPS
+                     Maximum framerate  :  148.9 FPS
+                     1% low framerate   :  108.2 FPS
+                     0.1% low framerate :   94.0 FPS
+11-03-2021, 17:50:05 FarCry5.exe benchmark completed, 7289 frames rendered in 55.282 s 1440 MAX
+                     Average framerate  :  131.8 FPS
+                     Minimum framerate  :  110.6 FPS
+                     Maximum framerate  :  154.2 FPS
+                     1% low framerate   :  106.9 FPS
+                     0.1% low framerate :   55.9 FPS
+11-03-2021, 17:52:38 FarCry5.exe benchmark completed, 7914 frames rendered in 55.141 s 1080 stock
+                     Average framerate  :  143.5 FPS
+                     Minimum framerate  :  110.6 FPS
+                     Maximum framerate  :  193.9 FPS
+                     1% low framerate   :  109.0 FPS
+                     0.1% low framerate :  101.7 FPS
+11-03-2021, 17:59:37 FarCry5.exe benchmark completed, 7841 frames rendered in 55.234 s 1080 MAX
+                     Average framerate  :  141.9 FPS
+                     Minimum framerate  :  110.7 FPS
+                     Maximum framerate  :  191.8 FPS
+                     1% low framerate   :  107.0 FPS
+                     0.1% low framerate :   54.9 FPS
+11-03-2021, 18:26:43 Borderlands3.exe benchmark completed, 4684 frames rendered in 101.422 s 4k stock
+                     Average framerate  :   46.1 FPS
+                     Minimum framerate  :   41.1 FPS
+                     Maximum framerate  :   53.0 FPS
+                     1% low framerate   :   41.0 FPS
+                     0.1% low framerate :   39.0 FPS
+11-03-2021, 18:33:10 Borderlands3.exe benchmark completed, 4966 frames rendered in 102.032 s 4K MAX
+                     Average framerate  :   48.6 FPS
+                     Minimum framerate  :   43.3 FPS
+                     Maximum framerate  :   56.3 FPS
+                     1% low framerate   :   43.4 FPS
+                     0.1% low framerate :   41.8 FPS
+11-03-2021, 18:38:49 Borderlands3.exe benchmark completed, 8639 frames rendered in 103.297 s 1440 stock
+                     Average framerate  :   83.6 FPS
+                     Minimum framerate  :   76.3 FPS
+                     Maximum framerate  :   97.7 FPS
+                     1% low framerate   :   74.6 FPS
+                     0.1% low framerate :   54.2 FPS
+11-03-2021, 18:42:14 Borderlands3.exe benchmark completed, 9028 frames rendered in 104.718 s 1440 MAX
+                     Average framerate  :   86.2 FPS
+                     Minimum framerate  :   77.9 FPS
+                     Maximum framerate  :  100.9 FPS
+                     1% low framerate   :   76.5 FPS
+                     0.1% low framerate :   64.5 FPS
+11-03-2021, 18:45:41 Borderlands3.exe benchmark completed, 11894 frames rendered in 103.703 s 1080 stock
+                     Average framerate  :  114.6 FPS
+                     Minimum framerate  :  101.1 FPS
+                     Maximum framerate  :  136.9 FPS
+                     1% low framerate   :   98.0 FPS
+                     0.1% low framerate :   80.0 FPS
+11-03-2021, 18:49:28 Borderlands3.exe benchmark completed, 12272 frames rendered in 104.031 s 1080 MAX
+                     Average framerate  :  117.9 FPS
+                     Minimum framerate  :  104.3 FPS
+                     Maximum framerate  :  141.5 FPS
+                     1% low framerate   :  101.3 FPS
+                     0.1% low framerate :   84.5 FPS

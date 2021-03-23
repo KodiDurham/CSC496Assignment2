@@ -1,0 +1,19 @@
+Benchmark results:
+AMD Ryzen 9 5950X 16-Core Processor             (16 Gb) / AMD Radeon RX 6700 XT
+average FPS = 93.0
+min FPS = 73.5
+max FPS = 108.8
+1% low FPS = 80.5
+0.1% low FPS = 76.5
+averageCpuTimeMs = 3.75
+averageGpuTime: WholeFrame (ms) = 10.38
+averageGpuTime: DepthPass (ms) = 1.41
+averageGpuTime: OpaquePass (ms) = 4.07
+averageGpuTime: PrplDepthPass (ms) = 0.00
+averageGpuTime: BlendedPass (ms) = 0.31
+averageGpuTime: Shadows (ms) = 1.12
+averageGpuTime: LightProbes (ms) = 1.40
+averageGpuTime: SimpleViews (ms) = 0.23
+averageGpuTime: Lighting (ms) = 0.99
+averageGpuTime: UpdateHistory (ms) = 0.34
+averageGpuTime: PostEffects (ms) = 0.16
