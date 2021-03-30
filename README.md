@@ -1,4 +1,6 @@
-﻿[Home](https://kodidurham.github.io/CSC496Assignment2/)
+﻿[Home](https://kodidurham.github.io/CSC496Assignment2/) |   [Benchmarks](https://kodidurham.github.io/CSC496Assignment2/Benchmarks)
+
+[Home](https://kodidurham.github.io/CSC496Assignment2/)
 
 [Benchmarks](https://kodidurham.github.io/CSC496Assignment2/Benchmarks)
 
