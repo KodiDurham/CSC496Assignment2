@@ -1,2 +1,7 @@
+---
+layout: default
+title: "PAGE TITLE"
+permalink: /page
+---
 this is content
-this is test
+this is test 2
