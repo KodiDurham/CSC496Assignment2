@@ -1,3 +1,3 @@
 layout: page
 title: "PAGE TITLE"
-permalink: /page
+permalink: /CSC496Assignment2/page
