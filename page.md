@@ -5,3 +5,4 @@ permalink: /page
 theme: jekyll-theme-cayman
 ---
 this is content
+this is test
