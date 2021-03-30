@@ -202,7 +202,39 @@ function setDocker{
     docker run -p 8888:80 kodid/graphs
 }
 
+function setPage{
+    $textList = Get-ChildItem *.png -Name
 
+    $pathMain = $PSScriptRoot
+
+    $pathMain = Split-Path -Path $pathMain -Parent
+    
+    $pathMain
+    $pathMain+="\page.md"
+
+    Write-Host -NoNewLine 'Press any key to continue...';
+    $null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown');
+
+    $textList = Get-ChildItem *.png -Name
+    Set-Content -Path $pathMain ("---")
+    Add-Content -Path $pathMain ("layout: default")
+    Add-Content -Path $pathMain ("title: `"Benchmarks from Assignment 9`"")
+    Add-Content -Path $pathMain ("permalink: /Benchmarks")
+    Add-Content -Path $pathMain ("---")
+    Add-Content -Path $pathMain ("[Home](https://kodidurham.github.io/CSC496Assignment2/) |   [Benchmarks](https://kodidurham.github.io/CSC496Assignment2/Benchmarks)")
+    Add-Content -Path $pathMain( "")
+    Add-Content -Path $pathMain( "# **Benchmarks**")
+
+    foreach($image in $textList){
+        Add-Content -Path $pathMain( "")
+        Add-Content -Path $pathMain("## **" +($image)+"**")
+
+        Write-Host -NoNewLine 'Press any key to continue...';
+        $null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown');
+
+        Add-Content -Path $pathMain( "![]("+"AutoGraph/"+$image+")")
+    }
+}
 
 getOrganized
 
@@ -210,3 +242,5 @@ getOrganized
 getPlots
 
 #setDocker
+
+setPage
