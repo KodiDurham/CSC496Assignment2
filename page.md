@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "PAGE TITLE"
-permalink: /page
+title: "Benchmarks from Assignment 9"
+permalink: /benchmarks
 ---
-this is content
+[Home](https://kodidurham.github.io/CSC496Assignment2/)
 
+[Benchmarks](https://kodidurham.github.io/CSC496Assignment2/Benchmarks)
 
-this is test 3

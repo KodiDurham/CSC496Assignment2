@@ -1,4 +1,8 @@
-﻿# **CSC496 Assignments**
+﻿[Home](https://kodidurham.github.io/CSC496Assignment2/)
+
+[Benchmarks](https://kodidurham.github.io/CSC496Assignment2/Benchmarks)
+
+# **CSC496 Assignments**
 This is a test/assignment repo for my CSC 496 class. The Game's benchmarks and logs are organized by folders.
 
 ## **Game Benchmarks**
