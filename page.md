@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Benchmarks from Assignment 9"
-permalink: /benchmarks
+permalink: /Benchmarks
 ---
 [Home](https://kodidurham.github.io/CSC496Assignment2/)
 
